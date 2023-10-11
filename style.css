@@ -280,7 +280,7 @@ SP
   -------------------------------------------*/
   #header {
     /* スマホの場合は背景画像を切り替える */
-    background-image: url("img/sp_640_740.jpg");
+    background-image: url(img/sp_640_740.jpg);
     padding: 20px;
     margin-bottom: 80px;
   }
