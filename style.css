@@ -44,7 +44,7 @@ li {
   width: 100%;
   /* 背景を画面下まで設定 */
   height: 100vh;
-  background-image: url(img/1920_1280.jpg);
+  background-image: url("../img/1920_1280.jpg");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
